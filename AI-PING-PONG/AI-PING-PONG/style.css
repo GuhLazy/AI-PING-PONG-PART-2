@@ -1,0 +1,23 @@
+
+.heading {
+  text-align: left;
+  width: 100%;
+}
+.heading h3{
+   display:inline;
+   float:left;
+}
+.heading button{
+    float:right;
+    color: black;
+    font-size: 20px;
+}
+#status{
+    font-size: 20px;
+}
+h5{
+  background-color: antiquewhite;
+  line-height: 2;
+  margin: 0px;
+
+}
